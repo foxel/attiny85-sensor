@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RF_Transmitter_433_MHz
+D An RF transmitter at 433 MHz
+K rf, transmitter, 433
+$ENDCMP
+#
+#End Doc Library
